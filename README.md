@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome to Jiyoung's%20GitHub&fontSize=30&color=auto&fontColor=4d6c99)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome%to%Jiyoung's%20GitHub&fontSize=30&color=auto&fontColor=4d6c99)
 
 <a href="https://summerbook.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TSTORY-FF4785?style=plastic&logo=tistory&logoColor=ffe6f7"/></a>
 
